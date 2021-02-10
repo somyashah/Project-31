@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\proc41images"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "proc41images"
+	}
+}
